@@ -16,5 +16,9 @@ implement NFA over E={0,1} accepting the set of all strings that was binary inte
  <br>
  <img src="https://github.com/krishnakakade1999/implementation-nfa-for-accepting-states-in-c/blob/master/nfa-images/Annotation%202019-10-08%20131832.png" alt="one">
  
+ ## Author
+
+* **Krishna kakade**  - [krishnakakade1999](https://github.com/krishnakakade1999)
+ 
  # Thank you Mother/God/Me.
  <b> Def the person who says he is programmer he takes code from one site resolved its bugs and convert it into another programming language that is called as programmer</b>.
