@@ -10,9 +10,10 @@ implement NFA over E={0,1} accepting the set of all strings that was binary inte
            Store the intermediate transition state into variable temp and replace the value of state by latest transition state
  5.       If the state is in accepting state then accept the string else reject the string.
  6.       End of program.
+ # strlen( ) function counts the number of characters in a given string and returns the integer value. It stops counting the character when null character is found. Because, null character indicates the end of the string in C.
  # Last Someone solved that warning that guy have great welcome
+  # HERE is the warning And Output of that Program 
  <br>
- # HERE is the warning And Output of that Program 
  <img src="https://github.com/krishnakakade1999/implementation-nfa-for-accepting-states-in-c/blob/master/nfa-images/Annotation%202019-10-08%20131832.png" alt="one">
  
  # Thank you Mother/God/Me.
