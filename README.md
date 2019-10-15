@@ -20,5 +20,5 @@ implement NFA over E={0,1} accepting the set of all strings that was binary inte
 
 * **Krishna kakade**  - [krishnakakade1999](https://github.com/krishnakakade1999)
  
- # Thank you Mother/God/Me.
+ # Thank you .
  <b> Def the person who says he is programmer he takes code from one site resolved its bugs and convert it into another programming language that is called as programmer</b>.
